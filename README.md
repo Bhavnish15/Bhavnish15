@@ -1,4 +1,4 @@
-<img width=”400" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”mybanner” align="center">
+<img width=”400" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://raw.githubusercontent.com/Bhavnish15/Bhavnish15/main/github-header.png)" alt=”mybanner” align="center">
 
 <h1 align="center">Hi 👋, I'm Bhavnish Bhardwaj</h1>
 <h3 align="center">A passionate Software Developer.</h3>

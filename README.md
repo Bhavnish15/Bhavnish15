@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 
 🔭 I’m currently working on React Native Projects <br>👯 I’m looking to collaborate on Web dev <br>🤝 I’m looking for help with DevOps<br>🌱 I’m currently learning DevOps. <br>⚡Fun fact
 

@@ -2,7 +2,7 @@
 
 💫 About Me:
 
-🔭 Previously worked as a Associate Software Developer at WeVOIS Labs Pvt Ltd <br>👯 I’m looking to collaborate on Web dev, Java, DevOps <br>🤝 Currently Learning DevOps<br>🌱 <br>⚡Fun fact
+🔭 Working as a Software Developer at Firstsource Solutions Pvt Ltd <br>👯 I’m looking to collaborate on Web dev, Java, DevOps <br>🤝 Currently Learning DevOps<br>🌱 <br>⚡Fun fact
 
 ## 🌐 Socials:
 
